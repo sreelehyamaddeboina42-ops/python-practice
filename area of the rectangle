@@ -1,0 +1,6 @@
+# calculate the area of the rectangle 
+print("Area of rectangle calculator")
+length = input("enter the length: ")
+width = input("enter the width: ")
+area = int(length) * int(width)
+print(f"the area is {area}")
