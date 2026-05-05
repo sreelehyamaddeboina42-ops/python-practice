@@ -6,9 +6,9 @@
 A simple if-else calculator that performs basic arithmetic operations.
 
 **Run it:**
-```bash
+
 python calculator.py
-```
+
 
 **Features:**
 - Addition (+)
@@ -20,9 +20,9 @@ python calculator.py
 Converts temperatures between Celsius and Fahrenheit.
 
 **Run it:**
-```bash
+
 python temperature_converter.py
-```
+
 
 **Features:**
 - Convert Celsius to Fahrenheit
