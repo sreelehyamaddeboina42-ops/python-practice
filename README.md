@@ -1,4 +1,4 @@
-# python-practice
+# python-projects
 
 ## Projects
 
